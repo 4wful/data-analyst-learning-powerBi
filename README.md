@@ -54,7 +54,7 @@ Puedes acceder a algunos de los dashboards publicados desde los siguientes enlac
 
 1. Descarga [Power BI Desktop](https://powerbi.microsoft.com/).
 2. Abre cualquier archivo `.pbix` del repositorio.
-3. Explora el modelo de datos, medidas DAX y visualizaciones.
+3. Explora el modelo de datos, medidas DAX y visualizaciones
 
 ---
 
